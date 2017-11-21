@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Tienda virtual Shiroe</string>
+    <string name="action_settings">Configuraciones</string>
+    <string name="logout">Cerrar sesión</string>
+    <string name="user">Usuario</string>
+    <string name="password">Contraseña</string>
+    <string name="login">Iniciar sesión</string>
+    <string name="createAccount">Crear una cuenta</string>
+    <string name="newAccount">Nueva cuenta</string>
+    <string name="singUp">Regístrate</string>
+    <string name="sendEmailNotification">Envíame notificaciones al correo</string>
+    <string name="username">Usuario</string>
+    <string name="email">Correo</string>
+    <string name="addNewProduct">Producto nuevo</string>
+    <string name="itemName">Nombre del item</string>
+    <string name="itemPrice">Precio del item</string>
+    <string name="category">Categoría</string>
+    <string name="clear">Limpiar</string>
+    <string name="create">Crear</string>
+    <string name="description">Descripción</string>
+    <string name="itemCant">Cantidad</string>
+    <string name="videoGame">Videojuego</string>
+    <string name="accessory">Accesorio</string>
+    <string name="manga">Manga</string>
+    <string name="selectImage">Seleccionar imagen</string>
+    <string name="typeImage">imagen/*</string>
+    <string name="productAdded">Un nuevo producto ha sido agregado</string>
+    <string name="edit">Editar</string>
+    <string name="delete">Borrar</string>
+    <string name="hey">OYE!!</string>
+    <string name="deleteUser">¿Quieres borrar este usuario?</string>
+    <string name="cancel">Cancelar</string>
+    <string name="editProduct">Editar producto</string>
+    <string name="productUpdated">Producto ha sido actualizado</string>
+    <string name="buyItem">¿Desea comprar este item?</string>
+    <string name="buy">Comprar</string>
+    <string name="userPasswordIncorrect">Usuario o contraseña incorrecto</string>
+    <string name="ShowPassword">Mostrar contraseña</string>
+</resources>

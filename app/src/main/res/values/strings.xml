@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">ShiroeStore</string>
+    <string name="action_settings">Settings</string>
+    <string name="logout">LogOut</string>
+    <string name="user">User</string>
+    <string name="password">Password</string>
+    <string name="login">LOGIN</string>
+    <string name="createAccount">Create an account</string>
+    <string name="newAccount">New Account</string>
+    <string name="singUp">SignUp</string>
+    <string name="sendEmailNotification">Send me E-mail notifications</string>
+    <string name="username">User name</string>
+    <string name="email">Email</string>
+    <string name="addNewProduct">New product</string>
+    <string name="itemName">Item name</string>
+    <string name="itemPrice">Item price</string>
+    <string name="category">Category</string>
+    <string name="clear">Clear</string>
+    <string name="create">Create</string>
+    <string name="description">Description</string>
+    <string name="itemCant">Cant</string>
+    <string name="videoGame">Video game</string>
+    <string name="accessory">Accessory</string>
+    <string name="manga">Manga</string>
+    <string name="selectImage">Select image</string>
+    <string name="typeImage">image/*</string>
+    <string name="productAdded">A new product has been aded</string>
+    <string name="edit">Edit</string>
+    <string name="delete">Delete</string>
+    <string name="hey">HEY!!</string>
+    <string name="deleteUser">You want to delete this user</string>
+    <string name="cancel">Cancel</string>
+    <string name="editProduct">Edit product</string>
+    <string name="productUpdated">Product has been updated</string>
+    <string name="buyItem">You want to buy this item?</string>
+    <string name="buy">Buy</string>
+    <string name="userPasswordIncorrect">User or pasword incorrect</string>
+    <string name="ShowPassword">Show password</string>
+
+    <string-array name="categoryArray">
+        <item>@string/videoGame</item>
+        <item>@string/accessory</item>
+        <item>@string/manga</item>
+    </string-array>
+
+</resources>

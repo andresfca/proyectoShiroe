@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "525842982143",
+    "firebase_url": "https://shiroestore-b003c.firebaseio.com",
+    "project_id": "shiroestore-b003c",
+    "storage_bucket": "shiroestore-b003c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:525842982143:android:1d75beffcd3d34eb",
+        "android_client_info": {
+          "package_name": "com.example.andres.shiroestore"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "525842982143-4bivrrf553rb5q048ldhrmqq6et73t8h.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.andres.shiroestore",
+            "certificate_hash": "afcd591398d4173a7d48082ff17ce228d3570bb5"
+          }
+        },
+        {
+          "client_id": "525842982143-3pelml5ij9grdgldht29lvitgp64ltr3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzGVrVRiJZtqKsuwFLJVFDO43-lf1m0R0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "525842982143-3pelml5ij9grdgldht29lvitgp64ltr3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
